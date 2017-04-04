@@ -1,8 +1,3 @@
-Creators: Christopher Akatsuka, Sagar Sinha, Jeremy Danziger
-pennkeys: akatsuka, sagarsi, jdanz
-
-Note: Upon reviewing the submission again, I realized there was a typo on line 20, regarding the ffplay command for the final demo video. This has been fixed in this version, but make command and the mp4 command were still correct before
-
 The entire script exists within the single file.
 
 ffplay, ffmpeg, python, and the python libraries subprocess and scapy are required to run the file
@@ -19,7 +14,7 @@ The file creates captured.pcap, a record of the packet capture, and stream.h264,
 
 The video you just can be played using the command "make video", or ffplay stream.h264.
 
-The final submission video can be played using the command "make final_video", or ffplay final_demo.h264, or just by opening the mp4 player of your choice.
+The final video can be played using the command "make final_video", or ffplay final_demo.h264, or just by opening the mp4 player of your choice.
 
 
 The mpeg was generate via an online converter with our h264 file
