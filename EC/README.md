@@ -1,4 +1,3 @@
-Extra credit writeup
 Relevant scripts: arp_poisoning.py
 Required packages: scapy,multiprocessing,time,os,pexpect,sys
 
